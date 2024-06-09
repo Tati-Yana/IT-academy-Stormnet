@@ -1,0 +1,7 @@
+From city: Minsk, Tbilisi, Kair, Warshawa
+To country: France, Italy, Austria, Switzerland, Finland
+Number of nights: 10, 15, 20
+Type of tourist:   adult, child
+Number of adults:   1,2,3,4,5
+Amount of children: 0,1,2,3,4
+
